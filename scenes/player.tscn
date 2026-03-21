@@ -156,7 +156,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"hit",
-"speed": 5.0
+"speed": 20.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -201,8 +201,8 @@ animations = [{
 "texture": SubResource("AtlasTexture_ujl30")
 }],
 "loop": true,
-"name": &"jump",
-"speed": 5.0
+"name": &"jumping",
+"speed": 20.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -242,24 +242,22 @@ animations = [{
 "texture": SubResource("AtlasTexture_t4otl")
 }],
 "loop": true,
-"name": &"run ",
-"speed": 5.0
+"name": &"running",
+"speed": 20.0
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_qlg0r"]
-radius = 17.117243
 
 [node name="Player" type="CharacterBody2D" unique_id=1103793450]
 script = ExtResource("1_qlg0r")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1657777906]
-position = Vector2(-14.999999, -5)
-scale = Vector2(1.96875, 1.9375)
+position = Vector2(-24.75, 5.5)
+scale = Vector2(1.359375, 1.2812501)
 sprite_frames = SubResource("SpriteFrames_j2b1d")
 animation = &"idle"
 autoplay = "idle"
-frame_progress = 0.666446
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=116183411]
-position = Vector2(-14, 9)
+position = Vector2(-24, 15)
 shape = SubResource("CircleShape2D_qlg0r")
