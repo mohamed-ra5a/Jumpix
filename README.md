@@ -141,6 +141,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [stars-url]: https://github.com/BudzioT/Godot_Super-Wakatime/stargazers
 [issues-shield]: https://img.shields.io/github/issues/budziot/Godot_Super-Wakatime?style=for-the-badge
 [issues-url]: https://github.com/BudzioT/Godot_Super-Wakatime/issues
+
+
 [license-shield]: https://img.shields.io/github/license/budziot/Godot_Super-Wakatime?style=for-the-badge
 [license-url]: https://github.com/BudzioT/Godot_Super-Wakatime/blob/master/addons/godot_super-wakatime/LICENSE
 [product-screenshot]: https://cloud-j4wibbzz7-hack-club-bot.vercel.app/0image.png
@@ -150,3 +152,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Ouch-shield]: https://img.shields.io/badge/Ouch!-tool-blue?label=Ouch!
 [Ouch-url]: https://github.com/ouch-org/ouch
 [time-screenshot]: https://cloud-l88kldf50-hack-club-bot.vercel.app/0image.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#game-name: jumpix
+#description: the main aim of this pinky runner is reaching to the ending point safely the highest amount of points with dropping in these holes.
+# play :https://mohamed-ra5a.itch.io/jumpix-game
+#IMAGE:<img width="484" height="273" alt="Screenshot 2026-03-27 052138" src="https://github.com/user-attachments/assets/6c64dc0f-424f-42a2-9c1e-7f081322ab21" />
+Authoer 
+mohamed mahany
+
